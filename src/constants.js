@@ -203,8 +203,8 @@ export const SkillsInfo = [
         "A Web portal for job seekers",
       image: jobhublogo,
       tags: ["HTML", "CSS", "PHP","MYSQL","Xampp  "],
-      github: "https://google.com",
-      webapp: "https://gooble.com",
+      github: "https://github.com/Deepraj-Patel/JobHub-website-project.git",
+      webapp: "https://github.com/Deepraj-Patel/JobHub-website-project.git",
     },
     
   ];  
