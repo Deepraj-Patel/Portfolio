@@ -85,7 +85,7 @@ export const SkillsInfo = [
       // { name: 'Springboot', logo: springbootLogo },
       // { name: 'Node JS', logo: nodejsLogo },
       // { name: 'Express JS', logo: expressjsLogo },
-      { name: 'MySQL', logo: mysqlLogo },
+      { name: 'PHP', logo: phplogo },
       // { name: 'MongoDB', logo: mongodbLogo },
       // { name: 'Firebase', logo: firebaseLogo },
       // { name: 'PostgreSQL', logo: postgreLogo },
@@ -213,7 +213,7 @@ export const SkillsInfo = [
       title: "Personal portfolio",
       description:
         "A person portfolio tha show my career",
-      image: jobhublogo,
+      image: portfolioLogo,
       tags: ["HTML", "CSS", "JAVASCRIPT","REACT"],
       github: "https://github.com/Deepraj-Patel/Portfolio.git",
       webapp: "https://deepraj-p-portfolio.vercel.app/",
