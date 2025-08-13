@@ -32,6 +32,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
+import phplogo from './assets/tech_logo/phplogo.png';
 
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
@@ -57,6 +58,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import jobhublogo from './assets/work_logo/jobhub.png'
+import portfolioLogo from './assets/work_logo/portfolio.png'
 
 
 export const SkillsInfo = [
@@ -204,7 +206,17 @@ export const SkillsInfo = [
       image: jobhublogo,
       tags: ["HTML", "CSS", "PHP","MYSQL","Xampp  "],
       github: "https://github.com/Deepraj-Patel/JobHub-website-project.git",
-      webapp: "https://github.com/Deepraj-Patel/JobHub-website-project.git",
+      webapp: "https://jobhubweb.ct.ws/",
+    },
+    {
+      id: 10,
+      title: "Personal portfolio",
+      description:
+        "A person portfolio tha show my career",
+      image: jobhublogo,
+      tags: ["HTML", "CSS", "JAVASCRIPT","REACT"],
+      github: "https://github.com/Deepraj-Patel/Portfolio.git",
+      webapp: "https://deepraj-p-portfolio.vercel.app/",
     },
     
   ];  
