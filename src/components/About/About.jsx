@@ -41,8 +41,8 @@ const About = () => {
           </h3> */}
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a web stack developer. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
+            I am a web developer. Skilled in both front-end and
+            back-end development, I have a knowledge of MERN stack and other
             modern technologies to create seamless user experiences and
             efficient solutions.
           </p>
